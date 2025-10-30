@@ -1,0 +1,23 @@
+/* If you need icons */
+@import "primeicons/primeicons.css";
+
+/* ✅ Custom UTA‑style theming */
+body {
+  background-color: #005ea2; /* UTA blue */
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.p-card {
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+  color: #000;
+  margin: 1rem;
+}
+
+// /* ✅ Custom UTA‑style theming */
+// @import "assets/vendor/primeng/themes/lara/lara-light-blue.css";
+// @import "assets/vendor/primeng/primeng.css";
